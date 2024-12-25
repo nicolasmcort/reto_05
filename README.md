@@ -25,7 +25,7 @@ En este caso, se organiza el código en módulos individuales para diferentes cl
 project_rectangle2/
 │
 ├── main.py  # Script principal con el código de prueba
-└── hola_mundo/
+└── Shape/
     ├── __init__.py 
     ├── base.py  # Contiene la clase Shape
     ├── point.py  # Contiene la clase Point
